@@ -1,0 +1,1 @@
+docker build -t node-project . && docker run -p 5001:5001 node-project
